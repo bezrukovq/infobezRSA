@@ -1,0 +1,1 @@
+hello! this is simple text for encryption and decryption
